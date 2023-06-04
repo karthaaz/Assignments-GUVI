@@ -136,7 +136,7 @@ calculator.appendChild(numbers)
 
 document.body.appendChild(calculator)
 
-const screenDisplay = document.querySelector('.result')
+const screenDisplay = document.querySelector('#result')
 const buttons_s = document.querySelectorAll('button')
 
 let calculation = []
