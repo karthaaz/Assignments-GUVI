@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+}
+.tick{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+form{
+padding: 3%;
+justify-content: center;
+
+}
+h1{
+    text-align: center;
+   }
+input[type=text], input[type=number], textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button{
+    width: 100%;
+   
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } 
